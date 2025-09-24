@@ -16,6 +16,8 @@ nav:
       - Overview: FPL/index.md
       - Posts:
           - "GW6 - Hof review": FPL/GW6 - HoF review.md
+          - "GW6 - early thoughts": FPL/GW6_early_thoughts.md
+
 
 markdown_extensions:
   - admonition
