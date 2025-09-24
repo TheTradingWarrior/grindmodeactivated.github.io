@@ -1,3 +1,10 @@
+### TLDR
+
+- Stach, Andersen and Senesi are silent overperformers that HoF managers are not ignoring
+- Elite favorites Bruno Fernandes and Salah holding toe to toe with Haaland. Defcons, clean sheet and strong goal potential likely make them preferred vs Haaland 
+- Burnley and Sunderland about to go on a very tough streak
+- HoF managers are likely to dump Joao Pedro & Semenyo over next few weeks
+- Pinnock & Robinson (already played on EFL cup) could be interesting differentials as their fixtures get easier next few GWs and barely anyone has them on their team
 ### Elite favourites and performance
 
 The chart below shows Elite v Crowd selection vs position-normalized points for each player.
@@ -69,10 +76,3 @@ Looking at those most likely to be transferred out, Joao Pedro and Semenyo look 
 | James Trafford                |        0.02 |               0    |                         -2.68 |                           -0.8  |             -2.12 |                     0.93 |
 | Michael Keane                 |        0.01 |               0    |                         -2.42 |                           -1.32 |             -2.09 |                     0.93 |
 | Antoine Semenyo               |        0.45 |               0.58 |                         -3.52 |                            1.41 |             -2.04 |                     0.93 |
-### TLDR
-
-- Stach, Andersen and Senesi are silent overperformers that HoF managers are not ignoring
-- Elite favorites Bruno Fernandes and Salah holding toe to toe with Haaland. Defcons, clean sheet and strong goal potential likely make them preferred vs Haaland 
-- Burnley and Sunderland about to go on a very tough streak
-- HoF managers are likely to dump Joao Pedro & Semenyo over next few weeks
-- Pinnock & Robinson (already played on EFL cup) could be interesting differentials as their fixtures get easier next few GWs and barely anyone has them on their team
