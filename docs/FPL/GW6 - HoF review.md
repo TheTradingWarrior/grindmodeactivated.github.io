@@ -7,11 +7,13 @@ Most notable trends for the season are :
 
 HoF managers have been picking up performance wise but average ranking is ~3.5mln.  Salah was the undisputed champion with 2 brave souls choosing Bruno Fernandes and Semenyo.
 
-![[assets/images/overallrank5.png]]
+![GW5 overall rank](../../assets/images/overallrank5.png)
+
 
 Chip wise, most didn't use any chip but ~30% used bench boost
 
-![[chippct_5.png]]
+
+![chip percentage chart gw5](../../assets/images/chippct_5.png)
 
 
 ### Top 3 Starters by Gameweek
