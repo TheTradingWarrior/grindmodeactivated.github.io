@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/GW6 - HoF review.md",
+                "file": "docs/FPL/GW6_early_thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GW6 - HoF review"
+              "title": "GW6_early_thoughts"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "bc38d2d7b1b218aa",
   "lastOpenFiles": [
+    "docs/FPL/GW6 - HoF review.md",
     "docs/FPL/GW6_early_thoughts.md",
     "docs/assets/images/chipcount_5.png",
     "docs/assets/images/elite_v_points_season_5.png",
@@ -184,7 +185,6 @@
     "docs/assets/images/elite_v_crowd_5.png",
     "docs/assets/images",
     "docs/assets",
-    "docs/FPL/GW6 - HoF review.md",
     "docs/FPL/index.md",
     "docs/index.md",
     "docs/Crypto/JLP delta-neutral.md",
