@@ -3,7 +3,3 @@ main:
     url: /
   - title: "FPL"
     url: /fpl/
-  - title: "Trading"
-    url: /trading/
-  - title: "About"
-    url: /about/
