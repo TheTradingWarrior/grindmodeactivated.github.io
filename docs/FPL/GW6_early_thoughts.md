@@ -3,7 +3,7 @@
 The chart below shows Elite v Crowd selection vs position-normalized points for each player.
 You can see Elite favourites like Wirtz and Watkins below the line, while others like Bruno Fernandes have deserved their favouritism. You can also see Senesi and Stach popping up as over-performers with a small bias from Elite managers. Haaland strong performance season-to-date has been the other major hurdle to Elite success so far.
 
-![Elite performance chart](../../assets/images/elite_v_points_season_5.png)
+![Elite performance chart](assets/images/elite_v_points_season_5.png)
 
 
 ### FDR view
@@ -16,9 +16,9 @@ Going forward, I try to understand what transfers/actions Elite managers are lik
 - Crystal Palace should drop from one with the easiest fixtures to one with hard matchups ahead
 - Most imbalanced fixture is this weekend Burnley v City. Nottingham Forest v Sunderland is a close second
 
-![FDR summary chart](../../assets/images/fdr_summary5.png)
+![FDR summary chart](assets/images/fdr_summary5.png)
 
-![FDR heatmap chart](../../assets/images/fdr_heatmap_5.png)
+![FDR heatmap chart](assets/images/fdr_heatmap_5.png)
 
 ### Measuring transfer pressure
 
