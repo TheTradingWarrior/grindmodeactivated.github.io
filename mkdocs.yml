@@ -12,13 +12,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Trading:
-      - Overview: trading/index.md
+  - FPL:
+      - Overview: fpl/index.md
       - Posts:
-          - "First Post": trading/post-1.md
-  - Fitness:
-      - Overview: fitness/index.md
-      - Plan: fitness/plan.md
+          - "GW6 - Hof review": FPL/GW6 - HoF review.md
 
 markdown_extensions:
   - admonition
