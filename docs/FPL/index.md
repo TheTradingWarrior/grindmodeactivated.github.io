@@ -1,1 +1,0 @@
-Thoughts on FPL ... trying to justify all the time I spend on this

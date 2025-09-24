@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,15 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc38d2d7b1b218aa",
+  "active": "08c5790025968c87",
   "lastOpenFiles": [
+    "docs/FPL/FPL.md",
+    "docs/index.md",
     "docs/FPL/GW6 - HoF review.md",
     "assets/images/elite_v_points_gw_5.png",
     "assets/images/elite_v_crowd_5.png",
     "assets/images/elite_v_points_season_5.png",
     "assets/images/fdr_heatmap_5.png",
     "assets/images/fdr_summary5.png",
-    "assets/images/bio-photo.jpg",
-    "docs/FPL/index.md"
+    "assets/images/bio-photo.jpg"
   ]
 }
