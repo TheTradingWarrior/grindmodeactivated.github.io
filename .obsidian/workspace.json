@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/index.md",
+                "file": "docs/FPL/GW6 - early thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GW6 - early thoughts"
             }
           }
         ]
@@ -169,16 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "08c5790025968c87",
+  "active": "bc38d2d7b1b218aa",
   "lastOpenFiles": [
     "docs/FPL/GW6 - HoF review.md",
-    "docs/index.md",
-    "docs/FPL/index.md",
-    "assets/images/elite_v_points_gw_5.png",
+    "docs/FPL/GW6 - early thoughts.md",
+    "docs/Crypto/JLP delta-neutral.md",
     "assets/images/elite_v_crowd_5.png",
-    "assets/images/elite_v_points_season_5.png",
-    "assets/images/fdr_heatmap_5.png",
+    "assets/images/chipcount_5.png",
+    "assets/images/chippct_5.png",
+    "assets/images/overallrank5.png",
+    "assets/images/points_per_gw_5.png",
+    "assets/images/totalpoints_5.png",
+    "assets/images/gwrank_5.png",
     "assets/images/fdr_summary5.png",
-    "assets/images/bio-photo.jpg"
+    "assets/images/fdr_heatmap_5.png",
+    "assets/images/elite_v_points_season_5.png",
+    "docs/FPL/index.md",
+    "docs/Crypto",
+    "docs/index.md"
   ]
 }

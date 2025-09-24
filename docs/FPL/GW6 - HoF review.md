@@ -3,6 +3,16 @@ Hey everyone, starting with a quick overview of how the elite FPL managers did t
 Most notable trends for the season are : 
 * Salah dominance, they all have him
 * Bruno Fernandes also highly favoured
+* Andersen getting more popular as the defcon potential shined through
+
+HoF managers have been picking up performance wise but average ranking is ~3.5mln.  Salah was the undisputed champion with 2 brave souls choosing Bruno Fernandes and Semenyo.
+
+![[assets/images/overallrank5.png]]
+
+Chip wise, most didn't use any chip but ~30% used bench boost
+
+![[chippct_5.png]]
+
 
 ### Top 3 Starters by Gameweek
 
