@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Movie reviews/NakedGun.md",
+                "file": "docs/FPL/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NakedGun"
+              "title": "index"
             }
           }
         ],
@@ -188,6 +188,8 @@
   "lastOpenFiles": [
     "docs/Movie reviews/Swiped.md",
     "docs/Movie reviews/NakedGun.md",
+    "docs/Movie reviews/index.md",
+    "docs/index.md",
     "docs/Crypto/JLP delta-neutral.md",
     "docs/FPL/GW6 - HoF review.md",
     "docs/FPL/GW6_early_thoughts.md",
@@ -210,7 +212,6 @@
     "docs/assets/images/elite_v_crowd_5.png",
     "docs/assets/images",
     "docs/assets",
-    "docs/index.md",
     "docs/Crypto"
   ]
 }
