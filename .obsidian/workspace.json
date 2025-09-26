@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/GW6 - HoF review.md",
+                "file": "docs/FPL/GW6_ccr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GW6 - HoF review"
+              "title": "GW6_ccr"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "3e2d4641329c610e",
   "lastOpenFiles": [
+    "docs/FPL/GW6 - HoF review.md",
     "docs/FPL/GW6_early_thoughts.md",
     "docs/FPL/GW6_ccr.md",
-    "docs/FPL/GW6 - HoF review.md",
     "dontpush/Guidelines summary.md",
     "docs/assets/stylesheets/extra.css",
     "docs/assets/stylesheets/extra.css.txt",

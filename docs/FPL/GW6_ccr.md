@@ -8,7 +8,7 @@ Sharing notes from GW6 across the main content creators:
 - **FPL Raptor:** Wildcard active, weighing Gyokeres vs Richarlison/Saka/Mbeumo, Bench Boost targeted for GW9.  
 - **FPL Focal:** Wildcard active, Haaland captain GW6, Salah move planned GW12, Bench Boost likely in GW7, possible Saka transfer if Palmer injury lingers.  
 
-### Zophar
+#### Zophar
 
 - **Disappointing GW5 with only minor returns**, rank dropped to 4.6M. Early transfers made: Watkins, Rogers ➝ Haaland, KDH.  
 - **Main focus on Haaland Triple Captain in GW6 vs Burnley**, backed by City’s top attacking projections and huge NPXGI lead despite minor fitness doubts.  
@@ -17,7 +17,7 @@ Sharing notes from GW6 across the main content creators:
 - **Projections show big upside with FH** (15% chance of 80+ vs 2% without), making it an analytically strong play.  
 - Wildcard avoided, content with GW6 team, clear chip strategy set for coming weeks.  
 
-### FPL Harry
+#### FPL Harry
 
 - **66 points in GW5 with a bench boost**, rank up to 2.1M. Wildcard activated in GW6 to rebuild depth and stability.  
 - **Haaland locked**, joined by **João Pedro for Chelsea fixtures** and **Gyokeres on Arsenal penalties**, midfield core of Bruno, Semenyo, Reijnders.  
@@ -26,7 +26,7 @@ Sharing notes from GW6 across the main content creators:
 - **Gabriel ➝ Van Dijk planned around GW12/13** to cover Liverpool fixtures, **Triple Captain saved for Haaland or Salah** in later gameweeks.  
 - Draft built deliberately **template and reliable**, designed to roll transfers and stay flexible.  
 
-### FPL Raptor
+#### FPL Raptor
 
 - **GW6 Wildcard activated**, template base kept but doubts remain over Raya, Gabriel, Gyokeres, Stach. GW5 steady but reset aimed at long-term stability.  
 - **Haaland and João Pedro locked**, Gyokeres under review despite penalties with alternatives considered: Richarlison, Saka, Mbeumo.  
@@ -35,7 +35,7 @@ Sharing notes from GW6 across the main content creators:
 - Alternative drafts tested: **shift Gyokeres/Stack funds into Saka**, or Gabriel ➝ Richards to open room for stronger attackers, though benching headaches remain.  
 - **Bench Boost targeted for GW9**, fallback GW11, GW8 opportunistic option depending on fitness.  
 
-### FPL Focal
+#### FPL Focal
 
 - **Terrible GW5 with multiple blanks and red cards**, Wildcard triggered for GW6 to reset and prepare for Bench Boost.  
 - Draft leans template: **Raya in goal**, defense of **Gabriel, Gvardiol, Senessi** for long-term clean sheets and DefCon reliability.  
