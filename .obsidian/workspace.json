@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Movie reviews/Swiped.md",
+                "file": "docs/Movie reviews/NakedGun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swiped"
+              "title": "NakedGun"
             }
           }
         ],
@@ -186,14 +186,16 @@
   },
   "active": "3e2d4641329c610e",
   "lastOpenFiles": [
-    "docs/Movie reviews/NakedGun.md",
     "docs/Movie reviews/Swiped.md",
+    "docs/Movie reviews/NakedGun.md",
+    "docs/Crypto/JLP delta-neutral.md",
+    "docs/FPL/GW6 - HoF review.md",
+    "docs/FPL/GW6_early_thoughts.md",
     "docs/FPL/index.md",
     "docs/FPL/GW6_ccr.md",
+    "dontpush/Movie style guide.md",
     "dontpush/Guidelines summary.md",
     "dontpush",
-    "docs/FPL/GW6_early_thoughts.md",
-    "docs/FPL/GW6 - HoF review.md",
     "Untitled.md",
     "docs/Movie reviews",
     "docs/assets/images/chipcount_5.png",
@@ -209,7 +211,6 @@
     "docs/assets/images",
     "docs/assets",
     "docs/index.md",
-    "docs/Crypto/JLP delta-neutral.md",
     "docs/Crypto"
   ]
 }
