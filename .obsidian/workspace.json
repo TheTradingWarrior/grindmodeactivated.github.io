@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/index.md",
+                "file": "docs/Movie reviews/NakedGun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "NakedGun"
             }
           }
         ],
@@ -186,14 +186,15 @@
   },
   "active": "3e2d4641329c610e",
   "lastOpenFiles": [
+    "docs/Book review",
+    "docs/FPL/GW6 - HoF review.md",
+    "docs/Crypto/JLP delta-neutral.md",
+    "docs/FPL/index.md",
     "docs/Movie reviews/Swiped.md",
     "docs/Movie reviews/NakedGun.md",
     "docs/Movie reviews/index.md",
     "docs/index.md",
-    "docs/Crypto/JLP delta-neutral.md",
-    "docs/FPL/GW6 - HoF review.md",
     "docs/FPL/GW6_early_thoughts.md",
-    "docs/FPL/index.md",
     "docs/FPL/GW6_ccr.md",
     "dontpush/Movie style guide.md",
     "dontpush/Guidelines summary.md",

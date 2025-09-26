@@ -12,15 +12,16 @@ theme:
 nav:
   - Home: index.md
   - FPL:
-      - Posts:
-          - "GW6 - Hof review": FPL/GW6 - HoF review.md
-          - "GW6 - early thoughts": FPL/GW6_early_thoughts.md
-          - "GW6 - content creator review": FPL/GW6_ccr.md
+    - Overview: FPL/index.md
+    - Posts:
+        - "GW6 - Hof review": FPL/GW6 - HoF review.md
+        - "GW6 - early thoughts": FPL/GW6_early_thoughts.md
+        - "GW6 - content creator review": FPL/GW6_ccr.md
   - Movie reviews :
-      - Posts:
-          - "Naked Gun": Movie reviews/NakedGun.md
-          - "Swiped": Movie reviews/Swiped.md
-
+    - Overview: Movie reviews/index.md
+    - Posts:
+        - "Naked Gun": Movie reviews/NakedGun.md
+        - "Swiped": Movie reviews/Swiped.md
 
 markdown_extensions:
   - admonition
