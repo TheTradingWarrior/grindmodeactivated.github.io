@@ -1,4 +1,4 @@
-### TLDR
+### TL;DR
 
 - Stach, Andersen and Senesi are silent overperformers that HoF managers are not ignoring
 - Elite favorites Bruno Fernandes and Salah holding toe to toe with Haaland. Defcons, clean sheet and strong goal potential likely make them preferred vs Haaland 
