@@ -2,7 +2,7 @@ site_name: Grind Mode Activated
 site_url: https://grindmodeactivated.github.io
 
 theme:
-  name: material
+  name: windmill
   palette:
     - scheme: default
       primary: blue
