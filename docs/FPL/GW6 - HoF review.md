@@ -1,9 +1,10 @@
 Hey everyone, starting with a quick overview of how the elite FPL managers did this week and how they've been performing. I am using the list of 50 managers published by FFS.
 
 Most notable trends for the season are : 
-* Salah dominance, they all have him
-* Bruno Fernandes also highly favoured
-* Andersen getting more popular as the defcon potential shined through
+
+- Salah dominance, they all have him
+- Bruno Fernandes also highly favoured
+- Andersen getting more popular as the defcon potential shined through
 
 HoF managers have been picking up performance wise but average ranking is ~3.5mln.  Salah was the undisputed champion with 2 brave souls choosing Bruno Fernandes and Semenyo.
 

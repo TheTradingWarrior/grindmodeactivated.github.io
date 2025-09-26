@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dontpush/Guidelines summary.md",
+                "file": "docs/FPL/GW6 - HoF review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guidelines summary"
+              "title": "GW6 - HoF review"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "3e2d4641329c610e",
   "lastOpenFiles": [
+    "docs/FPL/GW6_early_thoughts.md",
+    "docs/FPL/GW6_ccr.md",
+    "docs/FPL/GW6 - HoF review.md",
+    "dontpush/Guidelines summary.md",
     "docs/assets/stylesheets/extra.css",
     "docs/assets/stylesheets/extra.css.txt",
     "docs/assets/stylesheets/New Text Document.txt",
@@ -194,15 +198,11 @@
     "dontpush/Movie style guide.md",
     "docs/Movie reviews/NakedGun.md",
     "docs/Book review",
-    "docs/FPL/GW6 - HoF review.md",
     "docs/Crypto/JLP delta-neutral.md",
     "docs/FPL/index.md",
     "docs/Movie reviews/Swiped.md",
     "docs/Movie reviews/index.md",
     "docs/index.md",
-    "docs/FPL/GW6_early_thoughts.md",
-    "docs/FPL/GW6_ccr.md",
-    "dontpush/Guidelines summary.md",
     "dontpush",
     "Untitled.md",
     "docs/Movie reviews",
@@ -217,7 +217,6 @@
     "docs/assets/images/elite_v_points_gw_5.png",
     "docs/assets/images/elite_v_crowd_5.png",
     "docs/assets/images",
-    "docs/assets",
-    "docs/Crypto"
+    "docs/assets"
   ]
 }

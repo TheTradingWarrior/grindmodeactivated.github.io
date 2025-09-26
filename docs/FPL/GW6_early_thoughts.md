@@ -5,6 +5,7 @@
 - Burnley and Sunderland about to go on a very tough streak
 - HoF managers are likely to dump Joao Pedro & Semenyo over next few weeks
 - Pinnock & Robinson (already played on EFL cup) could be interesting differentials as their fixtures get easier next few GWs and barely anyone has them on their team
+- Elite managers have suffered with Watkins and Wirtz
 ### Elite favourites and performance
 
 The chart below shows Elite v Crowd selection vs position-normalized points for each player.
