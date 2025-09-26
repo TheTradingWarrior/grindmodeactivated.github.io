@@ -3,6 +3,7 @@ site_url: https://grindmodeactivated.github.io
 
 theme:
   name: windmill
+  highlightjs: true
   palette:
     - scheme: default
       primary: blue
