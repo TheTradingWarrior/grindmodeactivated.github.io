@@ -1,4 +1,4 @@
 
-score = 6.2/10
+Score = 6.2/10
 
 Interesting book about Bumble's founder, a young woman that started by helping found Tinder but left due to being sexually harassed by her ex-boyfriend which was a co-founder. Ends up founding Bumble, with the goal of making it more respectful & fair for women which contrasts with the business oriented / zero-respect for women approach at Tinder (alleged) - ironically it then comes up that Bumble's main investor, a Russian man that founded Badoo, was also complicit to extremely toxic manly behaviour at Badoo and is eventually forced to abandon and sell his share to BlackStone. Blackstone chooses her as the CEO of the full business.
