@@ -1,6 +1,6 @@
 Hey everyone, starting with a quick overview of how the elite FPL managers did this week and how they've been performing. I am using the list of 50 managers published by FFS.
 
-Most notable trends for the season are : 
+#### Most notable trends for the season are : 
 
 - Salah dominance, they all have him
 - Bruno Fernandes also highly favoured
