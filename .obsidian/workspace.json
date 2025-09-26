@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/index.md",
+                "file": "docs/FPL/GW6_ccr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GW6_ccr"
             }
           }
         ],
@@ -184,14 +184,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e2d4641329c610e",
+  "active": "08c5790025968c87",
   "lastOpenFiles": [
+    "dontpush/Guidelines summary.md",
+    "docs/FPL/GW6_ccr.md",
+    "dontpush",
+    "docs/FPL/GW6_early_thoughts.md",
+    "docs/FPL/index.md",
+    "docs/FPL/GW6 - HoF review.md",
     "docs/Movie reviews/Swiped.md",
     "docs/Movie reviews/Naked Gun.md",
     "Untitled.md",
-    "docs/FPL/GW6_early_thoughts.md",
     "docs/Movie reviews",
-    "docs/FPL/GW6 - HoF review.md",
     "docs/assets/images/chipcount_5.png",
     "docs/assets/images/elite_v_points_season_5.png",
     "docs/assets/images/totalpoints_5.png",
@@ -204,7 +208,6 @@
     "docs/assets/images/elite_v_crowd_5.png",
     "docs/assets/images",
     "docs/assets",
-    "docs/FPL/index.md",
     "docs/index.md",
     "docs/Crypto/JLP delta-neutral.md",
     "docs/Crypto"
