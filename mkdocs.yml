@@ -3,11 +3,27 @@ site_url: https://grindmodeactivated.github.io
 
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: Fira Code
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.sections
     - content.code.copy
     - content.tabs.link
+  extra_css:
+    - assets/stylesheets/extra.css
 
 nav:
   - Home: index.md
@@ -33,3 +49,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+plugins:
+  - search

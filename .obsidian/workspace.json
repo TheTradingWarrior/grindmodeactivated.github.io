@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Movie reviews/NakedGun.md",
+                "file": "dontpush/Guidelines summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NakedGun"
+              "title": "Guidelines summary"
             }
           }
         ],
@@ -186,17 +186,22 @@
   },
   "active": "3e2d4641329c610e",
   "lastOpenFiles": [
+    "docs/assets/stylesheets/extra.css",
+    "docs/assets/stylesheets/extra.css.txt",
+    "docs/assets/stylesheets/New Text Document.txt",
+    "docs/assets/stylesheets",
+    "docs/assets/New folder",
+    "dontpush/Movie style guide.md",
+    "docs/Movie reviews/NakedGun.md",
     "docs/Book review",
     "docs/FPL/GW6 - HoF review.md",
     "docs/Crypto/JLP delta-neutral.md",
     "docs/FPL/index.md",
     "docs/Movie reviews/Swiped.md",
-    "docs/Movie reviews/NakedGun.md",
     "docs/Movie reviews/index.md",
     "docs/index.md",
     "docs/FPL/GW6_early_thoughts.md",
     "docs/FPL/GW6_ccr.md",
-    "dontpush/Movie style guide.md",
     "dontpush/Guidelines summary.md",
     "dontpush",
     "Untitled.md",
