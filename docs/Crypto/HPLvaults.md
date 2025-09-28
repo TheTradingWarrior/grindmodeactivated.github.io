@@ -12,9 +12,10 @@ In traditional finance markets, it's very hard to do this kind of analysis but ,
 - Filter for >120 days of trading
 
 
-![[alpha_sharpe.png]]
+![alpha_sharpe.png](../assets/images/alpha_sharpe.png)
 
-![[vaults_overlay.png]]
+
+![vaults_overlay.png](../assets/images/vaults_overlay.png)
 
 Key stats for the top performers :
 
@@ -43,11 +44,15 @@ Key stats for the top performers :
 
 Some vaults like **Growi 01, Delta_01, pmalt, Sentiment Edge & Spitfire** look very interesting - high sharpe with statically significant alpha.
 
-![[GrowiHF_pnl.png]]
-![[Delta_01_pnl.png]]
-![[pmalt_pnl.png]]
-![[SentimentEdge_pnl.png]]
-![[Spitfire_pnl.png]]
-![[Tedy57123_pnl.png]]
+![Growi HF](../assets/images/GrowiHF_pnl.png)
+
+![Delta01HF](../assets/images/Delta_01_pnl.png)
+
+![pmalt](../assets/images/pmalt_pnl.png)
+
+![SemtimentEdge](../assets/images/SentimentEdge_pnl.png)
+![SpitFire](../assets/images/SpitFire_pnl.png)
+![Tedy57123](../assets/images/Tedy57123_pnl.png)
+
 
 
