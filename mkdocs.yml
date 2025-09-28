@@ -11,6 +11,9 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Crypto :
+      - Posts :
+        - "Looking for alpha on HyperLiquid vaults" : Crypto/HPLvaults.md
   - FPL:
       - Overview: FPL/index.md
       - Posts:
