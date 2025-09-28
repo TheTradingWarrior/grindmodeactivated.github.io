@@ -12,10 +12,10 @@ In traditional finance markets, it's very hard to do this kind of analysis but ,
 - Filter for >120 days of trading
 
 
-![alpha_sharpe.png](../assets/images/alpha_sharpe.png)
+![alpha_sharpe](../assets/images/alpha_sharpe.png)
 
 
-![vaults_overlay.png](../assets/images/vaults_overlay.png)
+![vaults_overlay](../assets/images/vaults_overlay.png)
 
 Key stats for the top performers :
 

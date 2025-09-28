@@ -224,11 +224,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "08c5790025968c87",
+  "active": "bd432e2033748b5a",
   "lastOpenFiles": [
-    "docs/assets/images/vaults_overlay.png",
-    "docs/Crypto/HPLvaults.md",
     "docs/FPL/GW6 - HoF review.md",
+    "docs/FPL/GW6_ccr.md",
+    "docs/Crypto/HPLvaults.md",
+    "docs/assets/images/vaults_overlay.png",
     "docs/Crypto/JLP delta-neutral.md",
     "docs/assets/images/BTC_SOL_HYPETrend+L_SOverlay_pnl.png",
     "docs/assets/images/DailyTradeAILowrisk_pnl.png",
@@ -239,8 +240,6 @@
     "docs/assets/images/Quebi-ApexOne_pnl.png",
     "docs/assets/images/SentimentEdge_pnl.png",
     "docs/assets/images/HLPLiquidator_pnl.png",
-    "docs/assets/images/GrowiHF_pnl.png",
-    "docs/FPL/GW6_ccr.md",
     "requirements.txt",
     "docs/FPL/GW6_early_thoughts.md",
     "dontpush/Guidelines summary.md",
