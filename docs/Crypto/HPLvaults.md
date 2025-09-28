@@ -1,3 +1,5 @@
+# Hyperliquid vaults - the search for alpha
+
 Went through all vaults in Hyperlid, looking for alpha ... The average crypto participant couldn't care less about it but if all I want is beta I'd rather just buy BTC.
 In traditional finance markets, it's very hard to do this kind of analysis but in crypto vaults provide a very interesting opportunity. Obviously alpha is scarce but the data is out there for us to look at in a way that doesn't exist in tradfi.
 ### Methodology 

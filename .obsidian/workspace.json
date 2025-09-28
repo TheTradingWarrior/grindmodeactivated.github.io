@@ -210,8 +210,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "08c5790025968c87",
+  "active": "5ba738c5e03e8307",
   "lastOpenFiles": [
+    "docs/Crypto/JLP delta-neutral.md",
+    "docs/Crypto/HPLvaults.md",
     "docs/assets/images/BTC_SOL_HYPETrend+L_SOverlay_pnl.png",
     "docs/assets/images/DailyTradeAILowrisk_pnl.png",
     "docs/assets/images/yubodegenfund_pnl.png",
@@ -222,8 +224,6 @@
     "docs/assets/images/SentimentEdge_pnl.png",
     "docs/assets/images/HLPLiquidator_pnl.png",
     "docs/assets/images/GrowiHF_pnl.png",
-    "docs/assets/images/DailyTradeAI  Low risk_pnl.png",
-    "docs/Crypto/HPLvaults.md",
     "docs/FPL/GW6_ccr.md",
     "requirements.txt",
     "docs/FPL/GW6_early_thoughts.md",
@@ -237,7 +237,6 @@
     "dontpush/Movie style guide.md",
     "docs/Movie reviews/NakedGun.md",
     "docs/Book review",
-    "docs/Crypto/JLP delta-neutral.md",
     "docs/FPL/index.md",
     "docs/Movie reviews/Swiped.md",
     "docs/Movie reviews/index.md",
