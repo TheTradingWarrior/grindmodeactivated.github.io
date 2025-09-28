@@ -51,7 +51,7 @@ Some vaults like **Growi 01, Delta_01, pmalt, Sentiment Edge & Spitfire** look v
 ![pmalt](../assets/images/pmalt_pnl.png)
 
 ![SemtimentEdge](../assets/images/SentimentEdge_pnl.png)
-![SpitFire](../assets/images/SpitFire_pnl.png)
+![Spitfire](../assets/images/Spitfire_pnl.png)
 ![Tedy57123](../assets/images/Tedy57123_pnl.png)
 
 
