@@ -25,6 +25,9 @@ nav:
       - Posts:
           - "Naked Gun": Movie reviews/NakedGun.md
           - "Swiped": Movie reviews/Swiped.md
+  - Miscellaneous:
+    - Posts:
+        - "Pushups in 60s": Miscellaneous/60spushups.md
 
 markdown_extensions:
   - admonition
