@@ -13,6 +13,7 @@ nav:
   - Home: index.md
   - Crypto :
       - Posts :
+        - "Looking for alpha on Polymarket" : Crypto/poly_ct.md
         - "Looking for alpha on HyperLiquid vaults" : Crypto/HPLvaults.md
   - FPL:
       - Overview: FPL/index.md
