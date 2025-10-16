@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FPL/GW8_early_thoughts.md",
+                "file": "docs/Crypto/Polymarket copy trading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GW8_early_thoughts"
+              "title": "Polymarket copy trading"
             }
           }
         ]
@@ -171,8 +171,18 @@
   },
   "active": "186f164530382160",
   "lastOpenFiles": [
-    "docs/FPL/GW6_early_thoughts.md",
+    "docs/assets/images/wallet_watchlist.png",
+    "docs/assets/images/polymarket_pnlcurves.png",
+    "Pasted image 20251016192915.png",
+    "docs/Crypto/BSC momentum bot.md",
+    "docs/Crypto/Polymarket copy trading.md",
+    "docs/Book review/38 Londres Street.md",
+    "docs/Crypto/JLP delta-neutral.md",
+    "docs/assets/images/Stabilizer_pnl.png",
+    "docs/assets/images/TitanVault_pnl.png",
+    "docs/Crypto/PMX.md",
     "docs/FPL/GW8_early_thoughts.md",
+    "docs/FPL/GW6_early_thoughts.md",
     "docs/FPL/GW8 - HoF review.md",
     "docs/FPL/GW6 - HoF review.md",
     "docs/FPL/index.md",
@@ -184,18 +194,12 @@
     "docs/assets/images/gwrank_7.png",
     "docs/assets/images/overallrank7.png",
     "docs/assets/images/totalpoints_7.png",
-    "docs/assets/images/points_per_gw_7.png",
-    "docs/assets/images/chippct_7.png",
-    "docs/assets/images/chipcount_7.png",
-    "docs/assets/images/fdr_summary7.png",
     "docs/index.md",
     "docs/Movie reviews/index.md",
     "docs/Crypto/HPLvaults.md",
     "docs/Movie reviews/Swiped.md",
-    "docs/Crypto/JLP delta-neutral.md",
     "dontpush/Guidelines summary.md",
     "dontpush/Movie style guide.md",
-    "docs/Book review/38 Londres Street.md",
     "_pages/year-archive.md",
     "docs/Miscellaneous",
     "docs/Movie reviews/NakedGun.md",
