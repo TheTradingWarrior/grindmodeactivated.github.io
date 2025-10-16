@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "poly_ct"
             }
+          },
+          {
+            "id": "d8f3577d058b069e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/assets/images/polymarket_pnlcurves.png"
+              },
+              "icon": "lucide-image",
+              "title": "polymarket_pnlcurves"
+            }
           }
         ]
       }
@@ -169,15 +181,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "08c5790025968c87",
+  "active": "186f164530382160",
   "lastOpenFiles": [
-    "docs/assets/images/wallet_watchlist.png",
     "docs/assets/images/polymarket_pnlcurves.png",
+    "docs/Crypto/poly_ct.md",
+    "docs/Crypto/HPLvaults.md",
+    "docs/Crypto/JLP delta-neutral.md",
+    "docs/assets/images/wallet_watchlist.png",
     "Pasted image 20251016192915.png",
     "docs/Crypto/BSC momentum bot.md",
-    "docs/Crypto/poly_ct.md",
     "docs/Book review/38 Londres Street.md",
-    "docs/Crypto/JLP delta-neutral.md",
     "docs/assets/images/Stabilizer_pnl.png",
     "docs/assets/images/TitanVault_pnl.png",
     "docs/Crypto/PMX.md",
@@ -193,10 +206,8 @@
     "docs/assets/images/elite_v_crowd_7.png",
     "docs/assets/images/gwrank_7.png",
     "docs/assets/images/overallrank7.png",
-    "docs/assets/images/totalpoints_7.png",
     "docs/index.md",
     "docs/Movie reviews/index.md",
-    "docs/Crypto/HPLvaults.md",
     "docs/Movie reviews/Swiped.md",
     "dontpush/Guidelines summary.md",
     "dontpush/Movie style guide.md",
