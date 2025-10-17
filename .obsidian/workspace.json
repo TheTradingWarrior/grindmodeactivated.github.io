@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Crypto/poly_ct.md",
+                "file": "docs/FPL/GW8 - current plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poly_ct"
+              "title": "GW8 - current plan"
             }
           },
           {
@@ -183,8 +183,9 @@
   },
   "active": "186f164530382160",
   "lastOpenFiles": [
-    "docs/assets/images/polymarket_pnlcurves.png",
     "docs/Crypto/poly_ct.md",
+    "docs/FPL/GW8 - current plan.md",
+    "docs/assets/images/polymarket_pnlcurves.png",
     "docs/Crypto/HPLvaults.md",
     "docs/Crypto/JLP delta-neutral.md",
     "docs/assets/images/wallet_watchlist.png",
