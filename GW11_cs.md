@@ -1,4 +1,4 @@
-Base case for now is FH 11 + 
+Base case for now is FH 11 + TC15
 
 | chip       | score |
 | ---------- | ----: |
