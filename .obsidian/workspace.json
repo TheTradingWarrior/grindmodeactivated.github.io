@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW11_cs.md",
+                "file": "docs/FPL/GW12_hof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GW11_cs"
+              "title": "GW12_hof"
             }
           },
           {
@@ -282,12 +282,13 @@
   },
   "active": "33e1f3e8c3339f16",
   "lastOpenFiles": [
+    "docs/FPL/GW11_hof.md",
+    "docs/FPL/GW12_hof.md",
+    "GW11_cs.md",
     "docs/FPL/GW9_cs.md",
     "docs/FPL/GW11_et.md",
-    "docs/FPL/GW11_hof.md",
     "docs/FPL/GW9_hof.md",
     "docs/assets/images/optimization_chip_per_week_EV_10.png",
-    "GW11_cs.md",
     "docs/assets/images/optimization_chip_per_week_EV_bar_10.png",
     "docs/assets/images/optimization_chip_per_week_bar_10.png",
     "docs/assets/images/optimization_chip_per_week_10.png",
